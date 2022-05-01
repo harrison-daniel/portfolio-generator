@@ -15,5 +15,9 @@ const printProfileData = profileDataArr => {
 
 printProfileData(profileDataArgs);
 
+<<<<<<< HEAD
 //will this upload
 // attempt
+=======
+//will this upload -----
+>>>>>>> feature/capture-input
